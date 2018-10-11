@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#6ab9ba</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="black_overlay">#66000000</color>
+<!--Splash Screen-->
+    <color name="bg_splash">#01393B</color>
+
+<!--Main Screen-->
+    <color name="text_main">#0097A7</color>
+    <color name="c_bg">#FFFFFF</color>
+<!--index Screen-->
+    <color name="c_idx_listbackground">#e7e5e5</color>
+    <color name="c_idx_header_top">#01393B</color>
+    <color name="c_idx_header_text1">#0097A7</color>
+    <color name="c_idx_header_text2">#8EA2A3</color>
+    <color name="c_idx_border">#d2d2d2</color>
+</resources>
